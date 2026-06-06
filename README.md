@@ -110,7 +110,7 @@ Although this is a learning project, it incorporates concepts commonly found in 
 
 Santhosh Reddy
 
-Cybersecurity Enthusiast | Bug Bounty Hunter | Java Developer
+Cybersecurity Enthusiast | Java Developer | Python Developer
 
 ---
 
